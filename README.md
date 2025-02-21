@@ -50,5 +50,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions, feedback, or support, please contact:
 
-- E-mail: pillapavan90909@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/pillapavan)
+- E-mail: nagatatajisunkara@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/nagatatajisunkara)
